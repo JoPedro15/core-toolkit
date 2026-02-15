@@ -1,1 +1,0 @@
-from core_clients.logger import logger

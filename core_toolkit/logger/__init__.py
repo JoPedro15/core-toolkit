@@ -1,0 +1,1 @@
+from core_toolkit.logger.logger_client import logger
