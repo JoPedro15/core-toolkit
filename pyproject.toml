@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "core-clients"
-version = "0.1.0"
+name = "core_clients"
+version = "0.2.0"
 description = "Generic automation clients for internal projects"
 requires-python = ">=3.10"
 dependencies = []
