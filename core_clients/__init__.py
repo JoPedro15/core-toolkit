@@ -1,1 +1,1 @@
-from core_clients.logger import Logger
+from core_clients.logger import logger
